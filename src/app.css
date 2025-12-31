@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  background-color: #284947;
+  color: white;
+}
+
+.btn {
+  @apply rounded-md px-3 py-2 flex items-center justify-center gap-2 hover:bg-black/20;
+
+}
+
+button {
+  cursor: pointer;
+}
+
+.cell {
+  @apply w-full text-center h-[5rem] flex justify-center items-center;
+}
