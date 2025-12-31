@@ -13,7 +13,6 @@ A minimal, clean calendar component built with **Svelte 5** and **Tailwind CSS 4
 - 📦 **Zero runtime deps** — only `dayjs` for date manipulation
 - 🧩 **Composable logic** — clean separation of calendar math in `calendar.ts`
 - 🔄 **Month navigation** — slide through months with prev/next controls
-- 📱 **Responsive grid** — flexible table-based layout
 
 
 ## 🚀 Quick Start
